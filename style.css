@@ -7,8 +7,10 @@
 
 body {
 	background: url(unsplash.jpg) no-repeat center;
-
-	airplane.png{
-	text-align: center;
-	color: #fff;
 }
+.airplane.png{
+	text-align: center; 
+	padding-top: 20%;
+	padding-bottom: 10%;
+	color: #fff;
+} 
