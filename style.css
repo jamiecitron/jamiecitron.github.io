@@ -8,6 +8,11 @@
 body {
 	background: url(unsplash.jpg) no-repeat center;
 }
+<div>
+  <img style="width:30px;height:60px;vertical-align:middle">
+  <span style="">Works.</span>
+</div>
+
 .Airplane.png{
 	text-align: center; 
 	padding-top: 20%;
