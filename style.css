@@ -13,6 +13,9 @@ body {
   <span style="">Works.</span>
 </div>
 
+img {
+    vertical-align: text-top;
+}
 .Airplane.png{
 	text-align: center; 
 	padding-top: 20%;
